@@ -55,6 +55,28 @@ Uno para cualquier sistema puede calcular su entropia, cuánto se degrada...
 Así igualmente se puede hacer con las empresas.
 
 
-Tecnologia y el medio ambiente(externo e interno de las organizaciones)
+Tecnologia y el "medio ambiente"("externo" e "interno" de las organizaciones)
+
+El Software se registra como derechos de autor. La "propiedad intelectual"
+se divide en dos: 
+    - "Propiedad industrial" 
+    - "propiedad intelectual".
+
+    Propiedad industrial: Patentes, modelos de utilidad, diseños industriales, marcas,
+    nombres comerciales, etc.
+
+    Propiedad intelectual: Derechos de autor, derechos conexos, derechos sui generis
+    sobre bases de datos, etc. 
 
 
+El caso de las empresas de medicamentos, que no quieren que se les copie la formula
+de sus medicamentos, entonces se registran como patentes, y se les da un tiempo
+de exclusividad para que puedan recuperar su inversión.
+
+También con su exito económico suelen comprar otras empresas con patentes, para
+tener el control de la tecnología... y no dejar de ser competitivos.
+
+Las tecnologías puedden ser disruptivas, y que no tienen nada que ver con otras 
+tecnologías. Son tecnologías que no tienen nada que ver con otras tecnologías.
+
+"La ingniería concurrente/simultánea"... 
