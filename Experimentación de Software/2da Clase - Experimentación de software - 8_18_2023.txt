@@ -38,3 +38,46 @@ del proceso y las caracteristicas del producto.
 
 Dependiendo del proceso tengo que suar la tecnica de investigación más apropiada.
 
+
+
+M1 Primarions de investigación: 
+    son inductivos y deductivos:
+
+Metodos comunes en la ingeniería de software:
+
+
+Basa dos en si son cuantitvos y cualitativos.
+
+
+dependiendo de si es exploratorio descriptico explicativo o de mejora... el experimento es 
+de tipo explicativo.
+En cuanto a los cuanti el método que más se usa es el experimental.
+
+El otro es la encuesta, es puede ser descriptivo o exploratio.
+
+
+Un estudio de tipo encuesta en el sentido de software podría ser preguantandoles a las empresas ueé están utilziando
+entnces yo necesito saber qué hacer con respecto a esa información... 
+
+
+los estuddios secundarios también son cunatitativos y los análisis post mortem 
+
+Los estudios cualitativos son los estudios de caso, investigación-acción,  etnograficos
+
+el estudio de caso es un método... como la eentrevista, yo tengo una idea de qué observar pero conforme vaya viendo
+tomo nota de cuando aplican la metología entonces chance y no aplican algo y eso lo tengo que 
+registrar, si lo hicieron mejor porque encontraron algo entonces eso también lo registro... qué sucede cuando el 
+fenomeno usa cierta herramient o aplica cierto método, y de ahí saco mis conclusiones... El método 
+es visual o sea no atribuyo solo observo.
+
+En el este investigación acción quiere mejorar le proceso, hay una mpresa de la que soy parte y quiero registrar
+y tomo decisiones de cómo lo aplico
+
+
+En la etno me intersa cómo se comportan los programadores, vas observando y lo que osercas son comportamientos gumanos
+en ciencias sociales usas princiaplmente esos...
+
+
+Los métodos en cuanto a procesos empirocos... experimentos,  encuesta y estudios de caso... 
+eb cuanto a estudios primarios en ingniería de software.... Lo que los chicos de tesis que más reportan
+son los estudios de caso
