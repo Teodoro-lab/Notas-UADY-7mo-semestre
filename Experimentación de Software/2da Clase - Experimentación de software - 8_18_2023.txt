@@ -1,8 +1,7 @@
-No sé si es a Software o Matenimiento pero es a lo que más tiempo le vas a invertir.
-
+No sé si es a Software o Mantenimiento pero es a lo que más tiempo le vas a invertir.
 
 Un ejemplo de cuando un ingeniero se dedica a la operación de software. O sea alguien
-que opera software tiene sus funcionalidades, en cual funcionalidad. 
+que opera software tiene sus funcionalidades, en cual funcionalidad.
 
 Herramienta case para generar tu código... es parte de tu trabajo.
 
@@ -13,7 +12,6 @@ utiliza herramientas de software para crear software.
 Por ejemplo el DBA, el DBA opera software, el DBA opera el motor de base de datos.
 Es uno de los casos donde el ingeniero de software opera software y no lo crea.
 
-
 ¿Qué es la ingeniería de software?
 
 (i) La aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo,
@@ -21,63 +19,75 @@ operación y mantenimiento de software, esto es la aplicación de la ingeniería
 
 (ii) El estudio de enfoques como en (i).
 
-El fenomeno de sooftware... hay un conjunto de cosas que están interrelacionadas y que
-se pueden estudiar, se pueden analizar, se pueden medir, se pueden cuantificar. 
+El fenómeno de sooftware... hay un conjunto de cosas que están interrelacionadas y que
+se pueden estudiar, se pueden analizar, se pueden medir, se pueden cuantificar.
 
-
-Conocer la naturaliza de los productos, de los procesos y de la relación de los productos-procesos
-¿Cuánto cobro por el software? Pues mido mi esfuerzo... 
+Conocer la naturaleza de los productos, de los procesos y de la relación de los productos-procesos
+¿Cuánto cobro por el software? Pues mido mi esfuerzo...
 Para esto voy generado conjuntos conocimientos que me permitan medir mi esfuerzo.
 
 La parte de investigación tiene que estar en los proyectos de software o en fases pero
 vinculadas con proyectos de software.
 
+"Lo más importante": Es entender la relación entre las diversas características
+del proceso y las características del producto.
 
-"Lo más importante": Es entender la relación entre las diversas caracteristicas
-del proceso y las caracteristicas del producto.
+Dependiendo del proceso tengo que usar la técnica de investigación más apropiada.
 
-Dependiendo del proceso tengo que suar la tecnica de investigación más apropiada.
+M1 Primarions de investigación:
+son inductivos y deductivos:
 
-
-
-M1 Primarions de investigación: 
-    son inductivos y deductivos:
-
-Metodos comunes en la ingeniería de software:
-
+Métodos comunes en la ingeniería de software:
 
 Basa dos en si son cuantitvos y cualitativos.
 
-
-dependiendo de si es exploratorio descriptico explicativo o de mejora... el experimento es 
+dependiendo de si es exploratorio descriptico explicativo o de mejora... el experimento es
 de tipo explicativo.
 En cuanto a los cuanti el método que más se usa es el experimental.
 
 El otro es la encuesta, es puede ser descriptivo o exploratio.
 
-
 Un estudio de tipo encuesta en el sentido de software podría ser preguantandoles a las empresas ueé están utilziando
-entnces yo necesito saber qué hacer con respecto a esa información... 
+entnces yo necesito saber qué hacer con respecto a esa información...
 
+los estuddios secundarios también son cunatitativos y los análisis post mortem
 
-los estuddios secundarios también son cunatitativos y los análisis post mortem 
-
-Los estudios cualitativos son los estudios de caso, investigación-acción,  etnograficos
+Los estudios cualitativos son los estudios de caso, investigación-acción, etnográficos
 
 el estudio de caso es un método... como la eentrevista, yo tengo una idea de qué observar pero conforme vaya viendo
-tomo nota de cuando aplican la metología entonces chance y no aplican algo y eso lo tengo que 
-registrar, si lo hicieron mejor porque encontraron algo entonces eso también lo registro... qué sucede cuando el 
-fenomeno usa cierta herramient o aplica cierto método, y de ahí saco mis conclusiones... El método 
+tomo nota de cuando aplican la metodología entonces chance y no aplican algo y eso lo tengo que
+registrar, si lo hicieron mejor porque encontraron algo entonces eso también lo registro... qué sucede cuando el
+fenómeno usa cierta herramient o aplica cierto método, y de ahí saco mis conclusiones... El método
 es visual o sea no atribuyo solo observo.
 
 En el este investigación acción quiere mejorar le proceso, hay una mpresa de la que soy parte y quiero registrar
 y tomo decisiones de cómo lo aplico
 
-
-En la etno me intersa cómo se comportan los programadores, vas observando y lo que osercas son comportamientos gumanos
+En la etno me interesa cómo se comportan los programadores, vas observando y lo que observas son comportamientos humanos
 en ciencias sociales usas princiaplmente esos...
 
-
-Los métodos en cuanto a procesos empirocos... experimentos,  encuesta y estudios de caso... 
-eb cuanto a estudios primarios en ingniería de software.... Lo que los chicos de tesis que más reportan
+Los métodos en cuanto a procesos empíricos... experimentos, encuesta y estudios de caso...
+en cuanto a estudios primarios en ingniería de software.... Lo que los chicos de tesis que más reportan
 son los estudios de caso
+
+experimentos
+
+se caracterízan por manipular una var independiente en otra dependiente...
+
+Tengo una tec A y el otro grupo la tec B ¿Qué técnica es más efectiva para detectar un mayor número de defectos?
+
+Encuestas
+son investigaciones que proporcionan un cisión general mediante la recogida de información estandarizada de una población específica
+o muestra representativa de la misma, por medio de una cuestionario o entrevista.
+
+se clasifican en descriptivas, exploratorias y explicativas
+
+estudio de caso se vasa en múltiples fuente de evidencia ara investigar una instancia o un peuqñe numero cuando el límite entre el fenómeno y el contexto nu puede ser claramente especifiado de casos.
+
+se utiliza en elementos representativos commo en un proyecto y dentro de la aplicabilidad de la empresas
+entonces muestras que encontraste.
+
+conoces las catacterís de la empresa y más o menos influyes en la toma de decisiones.
+
+El postmortem se hace desppués de haber completado una actividad o proyecto... puede ser genera compilando toda la info en cambio el post mortem lo 
+hace en un a actividad especifica como la estimación del esfuerzo o sea que es de tippo de mejora
