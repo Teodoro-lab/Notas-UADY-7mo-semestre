@@ -91,3 +91,20 @@ conoces las catacterís de la empresa y más o menos influyes en la toma de deci
 
 El postmortem se hace desppués de haber completado una actividad o proyecto... puede ser genera compilando toda la info en cambio el post mortem lo 
 hace en un a actividad especifica como la estimación del esfuerzo o sea que es de tippo de mejora
+
+
+elc uerpo del conocimmiento lo tuilizas en el desarrollo de software...
+los ingenieros de software también tienen que ir generando conocimieeto
+porque están observando cunado algo ya no es aplicable entonces son los propios ingenieros 
+de software los que pueden proponer en ciertas situaciones cosas que deberían de ser mejoradas.
+
+diseñas la solución con base a los requisitos, ppor ejemplo en cascada diseñas los requisitos, los 
+immlmentas y los liberas, lo haces por bloques de requisitos...
+
+
+la ingeniería de software empirica es el estudio de la ingeniería de software que se basa en datos
+del contexto de la ingeniería de software... tiene un caráter intrínsecamente social.
+
+
+se llama victor basiñe respecto a al aplicabilidad dque tiennla experimeintació en al ingeniria de software
+
