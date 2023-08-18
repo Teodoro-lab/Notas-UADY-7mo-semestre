@@ -29,6 +29,10 @@ Conocer la naturaliza de los productos, de los procesos y de la relación de los
 ¿Cuánto cobro por el software? Pues mido mi esfuerzo... 
 Para esto voy generado conjuntos conocimientos que me permitan medir mi esfuerzo.
 
+La parte de investigación tiene que estar en los proyectos de software o en fases pero
+vinculadas con proyectos de software.
 
 
+"Lo más importante": Es entender la relación entre las diversas caracteristicas
+del proceso y las caracteristicas del producto.
 
