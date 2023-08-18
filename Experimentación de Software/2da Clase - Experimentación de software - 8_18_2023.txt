@@ -108,3 +108,23 @@ del contexto de la ingeniería de software... tiene un caráter intrínsecamente
 
 se llama victor basiñe respecto a al aplicabilidad dque tiennla experimeintació en al ingeniria de software
 
+hay otras tencicas de aseuramiennto de la calidad que te dan resultados en mejorr tiempo 
+que aplicar pruebas a lo lokito 
+
+lo que nos interesa es controlar el costo de los defectos pero en general el costo de la
+ calidad o de todo el proceso de desarrollo. el costo de 
+la calidad es un factor muy relevante que etego que estar aplicadndo junto con todos los demás costos
+
+
+
+tardaste 10h oras programando y 20 corrigiendo, quién te paga. 
+el 20% del tiempo que te costó hacerlo.
+
+
+Deciamos la sesión pasada que cuando hablamos de calidad hablamos de cumplir sí las 
+enecesidades, pero tambbién con el dinero y con el tiempo y mi proceso tiene que
+ buscar eso.
+
+
+ las pruekbas ayudan a corregir que se arregle lo que haya salido malo pero además es u proceos de demostración.
+
