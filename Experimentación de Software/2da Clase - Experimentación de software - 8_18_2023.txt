@@ -36,3 +36,5 @@ vinculadas con proyectos de software.
 "Lo más importante": Es entender la relación entre las diversas caracteristicas
 del proceso y las caracteristicas del producto.
 
+Dependiendo del proceso tengo que suar la tecnica de investigación más apropiada.
+
