@@ -21,6 +21,13 @@ operación y mantenimiento de software, esto es la aplicación de la ingeniería
 
 (ii) El estudio de enfoques como en (i).
 
+El fenomeno de sooftware... hay un conjunto de cosas que están interrelacionadas y que
+se pueden estudiar, se pueden analizar, se pueden medir, se pueden cuantificar. 
+
+
+Conocer la naturaliza de los productos, de los procesos y de la relación de los productos-procesos
+¿Cuánto cobro por el software? Pues mido mi esfuerzo... 
+Para esto voy generado conjuntos conocimientos que me permitan medir mi esfuerzo.
 
 
 
