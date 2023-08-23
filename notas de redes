@@ -1,0 +1,157 @@
+modems que tienen la capacidad de ser routers.
+
+servidor de correo, de archivoss, web, que están ubicados físicamente en un lugar donde se encuentra el router
+hay un hub de aura de clase, un equipo que concentra a las aulas de clase(computadoras).
+
+cuántas lineas de cable, cuantas computadoras...
+
+ahora la topología lógica de una red es hablar en el lenguaje de la red, es el direcciónmiento de los protocolos que emplean
+las redes.
+
+TCP para formar los paquetes e IP para enviarlos... TCP/IP
+
+El aula de clase una muestra las direcciones IP, lo que significa que cada equipo tiene su dirección IP
+sin necesariamente poner el numero de computadoras.
+
+Todos está concentrado en un equipo de tipo internet con dirección ..................
+
+Es tán poderoso el redirecciónamiento IP que puede suceder lo siguiente.
+fiscamente hablando están en el mismo lugar, 2 cm, pero lógicamente hablando
+su toṕología lógica puediera ubicarlos en redes completamente distintas.
+
+el responsable de eso es la máscara de sub-red
+tiene sus ventajas y desventajas no estar en la misma red y visceversa.
+
+LAN - "red del laboratorio, del area de laboratorios, de la facultad de matemáticas del campus e ciencias exactas"
+
+Podemos ver las conexiones de dos computadoras en entradas eternet una co otra y lógicamente la topología lógica de las dos computadras es que están en redes diferentes.
+
+generalmente todos están conectados a un switch en una LAN
+
+cuando extendemos la LAN y podemos conectar una LAN con otra LAN que sí debe de estar separadas geograficcamente
+entonces hablamos de WAN y para que se puedan conectar
+necesitamos un router que las conecte.
+
+Las LAN que están separaadas por una distancia geográfica y se conectan mediante una red y que hay un medio de com
+unicación como un satelite o un cable entonces estamos
+hablando de una WAN y si escalamos el concepto de WAN
+a tener WAS's interconectadas entonces formamos el
+internet.
+
+WAN
+
+MAN - metropolitana
+LAN inalambrica
+
+tambiénn hay un mundo externo a internet, extranet, e intranet entonces lo que sean dispositivos finales, cables y servicios dentro de mi red
+
+la facultad de matemáticas que hablamos de la intranet de la facultad de matematicas. Esos sí tienen un servvidor de
+correo electrónico, al computadora dispone un espaci espefico y tiene su buzon de entrada de salida de borradores de no deseados, etc, etc, etc.
+
+Afura de la facultad de matemátias también tengan creados servidores de correo eletrónico.
+
+va más allá dy se refiere a los servicios que podemos obtener con las distintas infraestructras, sino lo encontramos dentro de la intranet o la facultad de matematicas entonces lo más seguro es quee encontremos uns servidor de correo electronico enla extrenet
+
+en nuestras intranet no encontramos el servicio de correo, generalmente los servicis de resoulución de nombres, gaurdado de archivos como los drives de intenet, todos estos serviciso se encuentran en innternet.
+
+Ene el momento en que nosotros generamos todos esos servicios que se encuentran en la internet en nuestra intranet y le proporcinemos a todas la personas una cuenta en un servidor ahí dentro ubicado geogradiccamente dentro de la empresa entonces posiblemente que ese usuario cierre sus cuentas en la internet y lo ponga en la intranet.
+
+extraet, toda la red de telmex, telmex al tener una red supongamos que tiene telmex en tu casa, la red telmex tal cual que conecta a sus sucursales entones esa es la extrenet.
+
+para ellos es un negocio, y si ya no uedo accede a insta o facebook o google, digamos por dos horas. No sé quién me mandó al gun mensaje, ellos que tienen estos servicios están erdiendo una cantidad de dinero or cada minuts que están fuera de linea
+
+las rredes unen al mundo y si internet depende de nosotros prpactcamente podemos decir que internet ha cuvbierto el mundo
+
+la gran telaraña de servicios web es solo unservicios que utiliza el rotocolo http que puede ser ejecutado a través de la red de internet...www es un servicio de intenet.
+
+servicio tan importante que tambiénn necesitamos, implmentar un servidor wwww para que nuestra empres, no tengan que salir a internet a hacer sus busquedas, sino que las uedda hacen desde un servidor que les dejemos disponible
+
+a lo que ya estámos acostuimbrados, los buscadores como de google de bing on maquienas que están prtoegidas lo s365 días del año
+
+para poder decir que esto lo podemos utiliizar sin un incomveniente, necsitamos que el inter al mens tenga estás caracteristicas.
+
+cuano mandamosun mensaje de whats y este no llega empieza la futración porque este servvio tal vez no está disponible, el usario entre en un estado de molestaia y la compañía piuerde.
+
+incluso hay lugares que hacen resonancia magneticas que ponen los resultados en internet y selo senviar directamente a los médicos, la forma en la que aprendemos, jugamos, todo gracias a una red de internet.
+
+manda al buzon de correos no deseados, son de tippo phising.
+
+para la olicia es complicado hacer los trasteros, ya tencología cibernetica ha avanzado.
+
+para que pueda decir qu eun apais tenga cierta cantidad de dinero, debe de tener en sus reservas el oro.
+
+
+
+
+SIGUIENTE CLASEEEEEEEEEEEEEEEEEEEE
+
+
+A los programas que ustedes realicen agreguen la parte quee les interconectadas
+vring your own device (BYOD)
+
+conectada a lo que comunmente se encuentra a la rpseta del internet a través de un clabe de cobre conocido como UTP 
+conferencias en linea, teams, etc telepresencia
+
+vi en su momento un reportaje donde en este caso el ceo de meta zuckerberga hablaba de ya estar creando los metaversos 
+
+hablando de la cantidad de bbites es muycho mayor que lo que respresentaría un texto lpano, sonido o una imagen.
+
+====== REDES POR LINEA ELECTRICA ========0000
+
+par trensado desprotegido, es cobre aliado con otros amteriales pero la mayor parte de los cables están hechos de 8
+hileras de cobre, si esto es cobre y el electrico también es de cobre... 
+
+cuando se contryue una casa lo primero que pensabmos es que tenga su correiennte electrica, entonces nos instala una serie de lineas de cable
+que son de cobre, como no podemos vivir sin internet entonces contratampps el servicios que nos provea el internet y nos trae 
+de la calle hacia el interior de nuestras un cable que ppuede ser cobre o de fibra optica, pero si queremos extender la red 
+compramos nuestros cables UTP y diseñamos los tipos de cable. 
+
+la señal al ser inalambrica no necesariamente, usar el ableado de cobre para cuando no lleve corriente, entonces combine sus funcion
+para llevar electricidad y también lleve bits 
+
+banda ancha inalambrica 
+
+actualmente necesitamos un modem en nuestra casapara que nuestra tele digamos se conecte al modem y tengamos slida cableada a internet, la idea de lo que vienes que através de las antenas podamos trasmitir y recibir 
+todo lo que actualmente transmotimos a través de un cable de cobre, pero a través de las antenas. Todo lo demas dell modem hacia afuera es cobre o fbra optica..
+
+
+Concepto distintos a ancho de banda. pero es otra cosa de la banda de ancha.
+
+la banda ancha es la capacidad de transmisión de datos, la capacidad de transmisión de datos es la cantidad de datos que podemos trasmitir en un segundo.
+
+Las amenzas más comunes usualmente son: 
+troyanos 
+negacion de servicios
+roo de datos 
+robo de indetidad 
+
+
+hay lo que se conoce como honey-next, tambien dnz, sona demilitarizada.
+
+
+patrones de 0's y 1's ya conocidos por la indsutria y si enxuentran ese patron retienen ese paquete, la dnz es otraforma de protección a nuestra red porque nos ermite que pongamos uns ervidor en la zonay
+
+y que lo saquemos de la pprotección del firewall y tengamos acceso unicamente nosotros ahacia nuestra computadora que está en nuestra casa 
+
+
+
+no va a funcionar hacia nuestra direción ip, porque nos va a bloquear el internet service provider porquue está detectando intrusión. 
+no saben que somos nosotros mismo que somos nosotros mismos y queremos entrar a nuestra casa y nos vaa bloquear... si lo conseguimos entonces 
+tendríamos que hacelro de alguna forma segura, a través de alugn tunel privado, hacer iina VPn y .... como si conecatsemos un cable de nuestro celular hasta la computadora,
+claro qu no existiría esa coneción, entonces eseo datos estarían encritpaddos, decirle a la compu recibir conexiones vpn y a nuestro telefono
+enviar VPn, nuestro provider deteceta la creación de una tunel y eso detecta como algo alido y ellos lo detectan como algo valido y no como una intrusiń..
+
+
+vamos apoder traerlo con nosotros de forma segura, los componente de segurridad de red incluyen los sigueientres: 
+
+-antivirus, antispyware 
+firewallACL, acees control list, 
+
+sistemas de prevención de intrusión 
+
+redes provadas vitusiales: zonas demilitarizadas co honey nets.
+
+Sin un intruso llega a saltar el firewall a lo mejor nos upueda pasar la honey net porque va a caaer como abeja en la honey net, entonces la honey net es una virtualización de nuestros servidores 
+
+él cree que ya alcanzó todos neustros servidores pero el no sabe que es una  virtualización delos servidores virtuales 
+
