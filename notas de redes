@@ -155,3 +155,64 @@ Sin un intruso llega a saltar el firewall a lo mejor nos upueda pasar la honey n
 
 él cree que ya alcanzó todos neustros servidores pero el no sabe que es una  virtualización delos servidores virtuales 
 
+Lo que sí podemso definir de forma clasica es que sii nos vamos a la lan, es que internet está formado por las LANS 
+
+
+¿Qué tipode ataques podríamos tener en una red?
+
+-ataques de denegación de servicios
+-ataques de robo de datos
+
+para hablar de redes necesitamos de medios, servicios y dispositivos
+dos tipos de dispositivos 
+
+- finales 
+- intermedios 
+
+
+los medios tenemos a los cables de obre y a las fibras opticas 
+
+
+puedesn haber redes qie sean satelites, entonce sinterne no solo son conjunciones de enroutadores, switches, sino que tambien
+los satelite... pero tienen un defecto, sin encestio que viaje 5000 kilometros para que suba al satelite, tambiém voy a necesitar 
+5000 kilometros para que vuelvan a mi.
+
+por eso usamos los cables 
+
+velocidades de therabits en algunos de los cables submarinos.
+
+
+CLASE 3 aug 24 2023 
+
+Cableado estructurado se convirtio el simiento del crecimiento de las redes en los años 90
+
+ahora es una parte crucial en todas las infraestructuras de telecomuniccaciones.
+
+eSi uan casa no tuviese buenos cimientoos entonces sucedería alguna tragedia, de ahí que por ejemplo un servvidor 
+, chi l considera ccomo un arte, los mastros albañiles...trabajo rudo y son a los que ponen a hacer los cimientos.
+
+
+un sistema de alto rendimiento  diseñado para satisacer las necesidades de las organizaciones actuales y futuras.
+la norma TIA 568, establece las pautas a seguir para la instalación dell cableado estructurado.
+
+los manuales nos dan inofrmación de como deemo sutilizar los comopnentes para garantizar tu sistema de cableado estructurado.
+para las normas suelen haber ppresentantes de cisco, de microsoft, de telecom, todas las empresas que tengan que ver con los 
+componentes de las redes y también inenierós que se deedican a hacer los puntos de acceso, lo cables de fibra optica, etc
+
+entonces la norma anterior garantiza que se sopportarán todas alas aplicaciones de telecomuniccaciones.
+
+O sea sí podemos pasar información por cualquier tipo de calbe sin embargo puede quesea un cable que no tenga la capacidad sufieinte 
+para que soporte el paso//lavelocidad del paso de los datos que en esos 5 años posteriores las aplicaciones van a requerir .
+
+
+actualmente se requiere aprox 1gb/s
+si hubiera instalado desde hace años que la velocidad se va a incrementar de eso a hexabits por segundo.
+
+
+uno es la velocidad de la transmisión y ell otro es el ancho de banda
+50 megabits por segundo, yo la de 200 megabits.
+pero estamos preguntando por una cosa y nos responden con otra.
+
+¿Han visto en la construcción de las casa cuyos trabajadores utiilicen  guantes googles, etc... Eso significa que no están 
+siguiendo estandares.
+
