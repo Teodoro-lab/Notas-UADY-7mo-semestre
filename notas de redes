@@ -216,3 +216,30 @@ pero estamos preguntando por una cosa y nos responden con otra.
 ¿Han visto en la construcción de las casa cuyos trabajadores utiilicen  guantes googles, etc... Eso significa que no están 
 siguiendo estandares.
 
+======================== ======================== ======================== ======================== 
+ ======================== aug 29 CZLASEEEEEEEEEEEEEEEEEEEEEEe ======================== 
+======================== ======================== ======================== ======================== 
+
+
+ jueves 21 de septiembre
+
+
+¿Cómo podría medir el ancho de banda o a cuantos herzios está funcionando el cable?
+
+
+Hay un deatalle con el que han batallado los que fabrican cables, utp, stp, que sean de cobre para redes...
+Si quiseramos hacer nuestra empresa tenemos que adaptarnos a los estandares.
+Tienen que vver con el aumento de la frecuencia para verificar la info que pasa por ese medio.
+
+
+Para hablar de bancho de anda:
+
+1- Attenuation: "El nivel de la señal" Se refiere a la redicción o pérdida de esa señal pues si pasas un flujo de electrones por un medio físico... esos electrones 
+algunos se quedan por el camino. Cuando no llega la señal, osea que o pasó el dato entonces 
+esta atenucaciónn se incrementa "con forme se incrementa la frecuencia debido a una ley de física llamada SKIN EFFECT"...
+Si fueramos contructores de cables quisierasmos encontrar tener un cable que trabaje a una alta frecuencia.
+Sin embargo esto conlleva estár peleando con el efecto físico, skin F, en este fenoome le campo magnetico generado dentro del conductor qu estamos fabricando hace que estos electrones se congestionen en una capa delgada en la superficie exterior del conductor.
+
+INVESTIGAR PORQUE EL EFECTO SKIN ESTÄ MEDIDO EN DECIBELES.
+
+2- Diafonía(Cross talk): "El nivel de ruido que inicialmente se genera dentro de los cables del mismo cabe.
