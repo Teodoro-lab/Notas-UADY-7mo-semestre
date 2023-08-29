@@ -242,4 +242,19 @@ Sin embargo esto conlleva estár peleando con el efecto físico, skin F, en este
 
 INVESTIGAR PORQUE EL EFECTO SKIN ESTÄ MEDIDO EN DECIBELES.
 
+Es importante para la inntensidad de la señal, empice a bajar el dato por el cable, es importante porque si el dato a través de la tarjeta de red esa se{ñal no llega al otro lado entonces no tiene sentidoo que haya puesto una señal en el medio, enecesitamos que llegue la señal en otra computadora u otra laptop.
+
+Si coemenzamos con una señal de 1Voltio, una atenuación de 20db entonces correpondería a un voltaje de .1.
+Los que construyen todo lo que tenga que ver con red saben qe el paso de los electrones se va a atenuar.
+Por lo tanto ellos han creado sus receptores o tarjetas de red para que llegando una señal debil puedan tratar de reconstruir esa señal debil y 
+tratar de entender si llego un 0 u 1. Desde luego estamos hablando de bits pero lo que llega en realidad son los paquetes.
+Si no ppueden reconstruir nada, entonces la señal no llegó al otro lado entonces el usario no verá nada de lla info que llegó.
+
+!!!!!!!!!!!!!!111 El limite superior para la atención de una cable es de 30dB.!!!!!!!!!!!!!!!!!!!!!!
+
+Un cable que tenga una atenuación de más de 30 no debería ser comprado, es una puta mierda.
+
+
+
+
 2- Diafonía(Cross talk): "El nivel de ruido que inicialmente se genera dentro de los cables del mismo cabe.
