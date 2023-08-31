@@ -256,5 +256,64 @@ Un cable que tenga una atenuación de más de 30 no debería ser comprado, es un
 con forme la señal decrece pies el receptor que está escchando la señal es más suceptible a ser interferido por otro tipo de señales commo el ruido exteno...
 DIAFONIA EXTERNA.
 
-2- Diafonía(Alien cross talk): "El nivel de ruido que inicialmente se genera dentro de los cables del mismo cabe. No estamos exntos de que el campo magnetico de por ejemplo un microondas afecte el paso de los electrones.
+2- Diafonía(Alien cross talk): "FWXT: far .... NEXT- Near end cross talk""El nivel de ruido que inicialmente se genera dentro de los cables del mismo cabe. No estamos exntos de que el campo magnetico de por ejemplo un microondas afecte el paso de los electrones.
 está tan inteferido el moden que se confunden con los que está llegando y ninguca de las computadoras puede entender lo que está llegando del modem.
+
+
+Si estoy viendo que están vinienndo y son altas frecuencias como voy a esquivar las frecuencias que están pasando ahacia toodos los dispositivos si es que udiesemos ver el espectro electronmagnético jajaja
+esto ocasiona errores más freientes y transmisiones menos confiables.
+
+la diafonía causa variacionnes aleatorias en la señal que debe de llegar y limitan la habilidad del receotor para poder detectar cambios en la forma de onda de la señal
+hablando de los cables de cobre que son los ue a interesan, los dos parametros clave son la atenución y la diafonía.
+
+Si tengo aqui un cable lo conecto y listo, podemos tenner una ed com muchos problemas en la comunicación y tenemos que hacer pruebas de ser la aplicación, la tarjeta de red.
+
+
+La mejora combinada de los parameotrs de atenuacióny NEXT darán mas margen y capacidad de transporte de la información... existe el ACR 
+para medir, este una medida aprox dntre la señal y el reuido.
+
+Si nosotros queremos instalar una red, este tipo de cables que sirven en los extremos de la red demás tenemos que comprar cables que generalmente vienen en puestos de estructuras conocidas como carretees de cable que vienen de 500 100 2000 metris
+dependiendo del diseño físico que hatamoss hechos. Es ago de lo que veremos pposteriormente. AL comprar el cable neceistamos saber cuál es l nivel de atenucińon y el nivel de FEXT/ruido y el nivel de ACR.Estos tres parametros deben de estar dentro de lo que vamos a ver ahora. si estos parameotrs nos están para el anccho de banda que manjea ese cable en parametrosadecuados entonces mejor hagmos la contización de otros cable con otros proveedor.
+
+Si nosotros no concems estos detalles y manipulan los cables mal entonces vamos  atener  porblemas  de transmision del paso  de la señal de un punto a otro .  
+
+la atención se representa por una gráfica que inica en 0....
+estamos viiendo que para esta gráfica que estamos usando para evalar todos los demás cables... quee trabajen a  100MGHR
+a 100 MgHr, al rededor de los 30 dB es lo permitido. Porque un cable emezará a un nivel de NEXT de 60dB, pero así como la atenución empieza a tener una mayor de decibles, el ruido lo hace en sentido contrario, o sea al rededor de los 100 MgHz las gr+aficas se cruzan.
+
+El punto donde choca atenucación y diafonía se anulan y entonces ene este punto y después de este punto es que la dianofía - atenuación.
+después de los 100 MhgHz hace que se vuelva negatva.
+
+
+
+CLASE 31 aug 2023 
+
+El estandar para lo que es la parte que tiene que ver con la temperatura
+e incluso la humedad, es que el cable debe de estar en un ambiente de 18-24 grados centigrados y 30% a 55% de humedad relativa.    
+
+No debe praticamente existir humedad. A veces tenemos humedades de los 90% y eso es un problema para los cables de cobre.
+
+En cuanto a la iluminación todo debe de ser de color clarom en los estandares se habla incluso de lumenes.
+
+Cada cobre en un clave de red tiene un color diferente, entonces si yo tengo un cable de 8 hilos, cada uno de esos hilos tiene un color diferente.
+La configuración es enntrelazada (twisted - unshielded) y esto es para que no se produzca la diafonía.
+
+Cable de par trenzado no blindad conocido como UTP, unshielded twisted pair.
+Cable de par trenzado blindado conocido como STP, shielded twisted pair.
+
+También tenemos el coazial, de este no nos libramos ya hablamos de fibras opticas y medios de  comunicación como los inlambricos, pero de este 
+todavía hay companías que lo manejan. Sirvió y sigue sirviendo para transmisión de imagen. Al se solamente un hilo de una calibre 
+mayor que el utp, tiene ciertas bondades, pero no tiene anchos de banda altos au una grande velocidad. 
+
+Por ejemplo con el que nuestros papars conectaban las videocaseteras. 
+
+
+
+
+Se ponen corchados porque los campos magneticos que se genren de haber cocrchado los cables quedan anulados, de forma que no provoquen diafonía.
+
+STP
+adicionalmente tenemos otro blindaje, como el material de hoja metálica, esto no significa 
+que los campos eletromagnéticos no entren, seguramente serán absorbidos por estas protecciones 
+que tienen los hilos de cobre que tienen. 
+
