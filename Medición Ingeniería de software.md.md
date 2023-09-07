@@ -18,6 +18,7 @@ Debo ser capaz de medir el efecto que tiene la variación entre las distintas sa
 
 **La teoría de la representación de la medicion** intentar tratar de expresar de forma numérica el mundo formal, las entidades del mundo real o mundo empírico y la correspondencia entre ambos mundos.
 
+
 ## Entidades de ingeniería de software
 
 En general podemos decir que donde hay recursos humanos, los ingenieros de software con sus diferentes roles, recursos económicos y los otros recursos como tecnológicos. ***Procesos, recursos y artefactos*** puedo medir.
@@ -31,7 +32,7 @@ La medida es resultado de la medición, voy a llegar a las 320 lineas de código
 
 Si voy contando obtengo la medida, pero qué tal si hablo de la densidad de los comentarios... Tal vez tenga que calcular dos cosas, hacer una operación y obtener el valor, entonces eso es una medición.
 
-En IS la métrica en nuestro contexto tiene dos significados:
+### En IS la métrica en nuestro contexto tiene dos significados:
 
 -  Como un termino para denotar el campo de la meidción.
 -  Como medida.
@@ -42,5 +43,45 @@ Hay otras mediciones como el esfuerzo, no es cuali ni cuanti, sino que es a atra
 
 **La escala de medición**, tiene un conjunto de posibles valores que puede adquiri el atributo que estoy obteniendo a través de esa formula. Es unConjunto de valores con relgas de manipiulación, estas reglas deben de tener un significado en el mundo real. Este signficaido en el mundo real viene capturado por las transformaciones que preserven las tranformaciones de la escala.
 
-Mientras más tranformaciones me permita la escala, mayor información puedo otener.
-Los valores que asignemos deberían tener sentido en el mundo real y sus transformaciones  también deberíann de tener setndio en el mundo real.
+	Mientras más tranformaciones me permita la escala, mayor información puedo   
+	obtener.
+
+	 Los valores que asignemos deberían tener sentido en el mundo real y sus 
+	 transformaciones también deberían de tener setndio en el mundo real.
+
+El conjunto de transofmraciones que son admisibles por una escala, el conjunto de sentencias que son realies cuando usas una escalay el cinjunto de oepraciones que puedes realizar entre si cuando utilizas una escala definienen ell *Nivel de medción de una escala*, 
+
+Entonces buscamos una escala con el mayor numero de transofmraciones admisibles, el robblema es que no las podemos inventar nosotros, el fenomeno ya tiene un máximo de medición.
+
+
+## Tipos de escalas 
+
+1. **Nominal:** Diferentes fenomenos reciben etiquetas(valores) distintos, y podemos probar la (medición) si dos fenómenos han recibido la misma etiqueta o una diferente. 
+   
+	1. Los nombres en sí mismos no son significativos, lo importante es lo que significa el color. Su identidad y diferencias sí son significativos.
+	   
+	2. Las *transformaciones admisibles* es el conjunto de las transformaciones uno a uno, ya que los valores específicos no transmiten ninguna información en particular, si son iguales y diferentes no te dice más, ni qué tan diferentes ni qué tan iguales.
+
+
+2. **Ordinal:** Establece criterio de orden, sin embargo la distancia entre los valores ordenados no tienen sentido físico. 
+	- Ejemplo: **CMMI** (*Inicial*, *Gestionado*, *Definido*, *Gestionado* *Cuantitativamente*, *Optimizado*)
+	- Mis tranformaciones admisibles:
+		- Mayor que ...
+		- Menos que ...
+		- Más complejo que...
+
+3. **Escala Intervalo**: La distania entre intervalos es conocida y siempre es la misma, la diferencia entre las medidas es significativa, pero no el valor en si. No tienen un valor inicial o cero absoluto.
+	1. Hay fenomenos en los que el 0 no tienen sentido.
+		- cuando hablas aquí el proyecto A inicio el 1 de sieptiembre, el proyecto B quedebería de iniciar en ahosto, se retrasó hasta el 8 de agosto. No tiene sentido decir que el proyecto B se atrasó el donle de tarde que el A.
+		  
+	2. Subconjunto de funciones monotonas de tipo *m' = am + b*. 
+
+4. **Escala de razón**: Escala del nivel más alto de medición, si las medidas son signifcativas se escala proproción. Permite definir relaciones coherentes con os valores de la escala.
+	1. Todas las operaciones admisibles.
+
+En cuanto a los indicadores:
+- *Nominal* puedo saber la moda.
+- *De orden* puedo saber el orden
+- *Intervalos* media arimética
+- *Razón media* geométrica
+

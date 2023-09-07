@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medición Ingeniería de software.md",
+                "file": "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2a9271243ca8d604",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medición Ingeniería de software.md",
+                "file": "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medición Ingeniería de software.md",
+                "file": "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medición Ingeniería de software.md"
+                "file": "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md"
               }
             }
           }
@@ -156,8 +148,23 @@
   },
   "active": "f63b06e2661b13e6",
   "lastOpenFiles": [
+    "Medición Ingeniería de software.md.md",
+    "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md",
+    "notas de innovación.md",
+    "notas de v&v.md",
+    "notas experimentación.md.md",
+    "notas de redes.md",
+    "Analisis de seguridad.md.md",
+    "notas formated.md.md",
+    "Verificación&Validación de Software/2da Clase - Verificación&Validación de Sofware - 8_18_2023.py.md",
+    "Verificación&Validación de Software/1ra Clase - Verificación&Validación de Sofware - 8_16_2023.txt.md",
+    "Redes y seguridad de computadoras/1ra Clase - Redes y seguridad de computadoras - 8_17_2023.txt.md",
+    "Innovación Tecnológica/2da Clase - Innovacion Tecnológica - 8_17_2023.txt.md",
+    "Experimentación de Software/2da Clase - Experimentación de software - 8_18_2023.txt.md",
+    "Experimentación de Software/1ra Clase - Experimentación de software - 8_16_2023.txt.md",
+    "notas experimentación.md",
+    "Analisis de seguridad.md",
     "notas formated.md",
-    "Medición Ingeniería de software.md",
-    "notas experimentación.md"
+    "Medición Ingeniería de software.md"
   ]
 }
