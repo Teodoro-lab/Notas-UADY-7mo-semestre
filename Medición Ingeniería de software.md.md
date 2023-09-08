@@ -118,7 +118,7 @@ Hy cosas en las que todavía no hay métricas  y para eso tenemos que hacer nues
 
 >Como dependen del entorno, sí son objetivos, pero tengo que hacer un mecanismo para evaluarlo, muchas cosas en el contexto dependen del humano, del uso del humano, un técnica, un método, una aplicación "¿Está fácil de usar o no?" Hasta que alguien la utilice es que te darás cuenta de ellos. El atributo interno podrá ser el numero de elementos que te muestra en un momento dado, porque si te los está mostrando en la pantalla los cuentas.
 
-## Productos
+## Productos */* Artefactos
 
 Son artefactos que se entregan al finaliza una actividad, una tarea, una fase. Son entregables.
 
@@ -128,3 +128,21 @@ Son artefactos que se entregan al finaliza una actividad, una tarea, una fase. S
 - Código
 - Texto
 - Diagramas
+
+> En el externo es porque depende de quién lee el documento, en el código es porque la solución que le das en el código... el código como tal implementa la solucion y eso puede ser sencillo o complejo, pero el diseño es un documento que vas a revisar.
+
+## Recursos  
+
+Cualquier entrada de una actividad
+
+Hoy día está a $300, al que se lo van a vender no sabe ni siquiera si tiene carretera, catastral cuesta $300, te pagan 
+
+## Medidas del producto: atributos internos
+
+*Tamaño del sistema:*
+	LOC, Densidad de comentarios(DOC), Puntos funcion(PF).
+
+> Los PF son indirectos, internos, objetivos.
+
+> La complejidad ciclomática es indirecta, objetiva, interna.
+
