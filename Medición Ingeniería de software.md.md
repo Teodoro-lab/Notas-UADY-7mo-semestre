@@ -4,7 +4,7 @@ Para medir algo dentro del contexto de la disciplina pueden tomar muchos años. 
 
 **La medición en el software es crucial:** los procesos fueran mejores y por lo tanto mejorar los procesos.
 
-La medición es un proceso por el cual asignamos un numero o un simbolo a un atributo del mundo real o fenomeno software que estamos viviendo y lo hacemos a través de reglas. En consecuencia la medida es ese simbolo o numero que le asignas al atribbuto de la entidad que quieras medir.
+La medición es un proceso por el cual asignamos un numero o un simbolo a un atributo del mundo real o fenomeno software que estamos viviendo y lo hacemos a través de reglas. En consecuencia el **valor**~~la medida es ese simbolo o numero que le asignas al atribbuto de la entidad que quieras medir.~~
 
 	La medición de una variable es la asignación de acuerdo a una regla que 
 	nosotros que adoptemos un valor al fenomeno denotado por la variable - Kaplan 
@@ -35,7 +35,7 @@ Si voy contando obtengo la medida, pero qué tal si hablo de la densidad de los 
 ### En IS la métrica en nuestro contexto tiene dos significados:
 
 -  Como un termino para denotar el campo de la meidción.
--  Como medida.
+-  Como medida de algo, como sinónimo de medida.
 
 Hay métricas que están directas y otras que no son tan directas como el expertiz del desarrollador del software (Cualitativo).
 
@@ -57,6 +57,8 @@ Entonces buscamos una escala con el mayor numero de transofmraciones admisibles,
 ## Tipos de escalas 
 
 1. **Nominal:** Diferentes fenomenos reciben etiquetas(valores) distintos, y podemos probar la (medición) si dos fenómenos han recibido la misma etiqueta o una diferente. 
+
+> ***La tipología de la escala sí está bien como ejemplo de ecala nominal, pero no es un recurso. ***
    
 	1. Los nombres en sí mismos no son significativos, lo importante es lo que significa el color. Su identidad y diferencias sí son significativos.
 	   
