@@ -144,5 +144,11 @@ Hoy día está a $300, al que se lo van a vender no sabe ni siquiera si tiene ca
 
 > Los PF son indirectos, internos, objetivos.
 
-> La complejidad ciclomática es indirecta, objetiva, interna.
+> La complejidad ciclomática es indirecta, objetiva, ~~interna~~.
 
+## Precisión en la medición
+
+Dos conceptos:
+
+1. Es el tamaño de la **unidad más pequeña de una métrica**; dicho de otra manera, es el número de digitos significativos que se pueden informar.
+2. 
