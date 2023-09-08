@@ -135,7 +135,7 @@ Son artefactos que se entregan al finaliza una actividad, una tarea, una fase. S
 
 Cualquier entrada de una actividad
 
-Hoy día está a $300, al que se lo van a vender no sabe ni siquiera si tiene carretera, catastral cuesta $300, te pagan 
+Hoy día está a $300, al que se lo van a vender no sabe ni siquiera si tiene carretera, catastral cuesta $300, te pagan menos y lo venden a más, entonces es algo que depende de quien tenga el dinero.
 
 ## Medidas del producto: atributos internos
 
@@ -151,4 +151,28 @@ Hoy día está a $300, al que se lo van a vender no sabe ni siquiera si tiene ca
 Dos conceptos:
 
 1. Es el tamaño de la **unidad más pequeña de una métrica**; dicho de otra manera, es el número de digitos significativos que se pueden informar.
-2. 
+   
+ La combinación arimética de medidas propaga y magnifica el error inherente a los valores originales. Por lo ranto **la suma de dos medidas tiene menos precisión que cualquiera de las dos**, su proporcion aún menor; esto debe tenerse en cuenta al crear una métrica compuesta.
+   
+2. El concepto de precisión es el inverso de variabilidad: las mediciones deben de ser **consistentes en observaciones repetidas en las mismas circunstancias**. Esta propiedad se determina **fiabilidad(confiablidad)** en la teoría de la medición.   
+
+> Te preguntan dos veces lo mismo con palabras diferentes, si se refier a lo mismo entonces son confiables sus respuestas, son consistentes. 
+
+## Validez
+  
+> Imaginense que quiero sacar la cmplejidad en base al núero de comentarios... eso no es complejidad, tal vez es legibilidad, pero no complejidad. 
+> **La validez** es que lo que estás midiendo corresponde realmente a lo que estás midiendo.
+
+- La **validez de criterio** es el grado en que una métrica refleja la relación del objetio medido con algun criterio.
+
+- La **validez de constructo** es el grado en el que una métrica mide realmente la entidad conceptual de interés. 
+
+## En el contexto de IS y experimentación...
+
+... establecemos causa-efecto, y esto nos dará validez a nuestros proceso experimental, establecemos el grado de influenccia de una variable sobre otras. Para medir ese grado de influencia necesitamos utilizar alguna de esas cosas, el efecto que tiene una cosa sobre otra cosa.
+
+Necesito que solo varien los objetos que estoy modificando. Un error comun en los estudios de correlación, cuando cambia una cambi otra, pero no porque una cambió cambió la otra.
+Si soy más alto tengo más peso, pero mi altura no es una causa del peso.
+
+Modificando los valores de una variable mido los efectos en las otras variablees, *nos interesan varaibles dependientes en una escala de razón.*
+
