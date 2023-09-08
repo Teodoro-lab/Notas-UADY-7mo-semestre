@@ -176,3 +176,44 @@ Si soy más alto tengo más peso, pero mi altura no es una causa del peso.
 
 Modificando los valores de una variable mido los efectos en las otras variablees, *nos interesan varaibles dependientes en una escala de razón.*
 
+## Tema de medición 
+
+Nos interesa porque estaremos usando variables y las caracaterísicas inflluyen en los procesos que podamos realizar. Proceso experimental, por un lado tenemos una población. ese conjunto de valores es lo que caracteriza al fenomeno que voy a analizar.
+
+Como no puedo llegar a la población la catacterizo a través de una muestra. 
+
+Me interesa de los ingenieros de software una caracteristica.
+
+Tomo las variables con las que voy a trajar sobre ese efecto del fennomeno. Como conozco el fenomenno sé que una influye sobre la otra, veo si la variabilidad es significativa.
+
+Resulta que la *Población estadisticas* la uso porque no puedo llegar a toda la población. Así como en mi población tenía un conjunto de factores, entonces en la muestra puedo sacar esos indicadores **SI ES SIGNIFICATIVA**.
+
+Si tengo 800 alumnos y necesito hacer un muestreo de la altura de los alumnos. En el tiempo tal vez es inviable que haga de todos, pero puedo hacer los que sean necesarios.
+
+El único proble es que mi muestra dificilmente la puedo hacer como dicta la estadística como tal. Lo hacemos con lo que podamos. 
+
+Una *población* es una colecciónn o totalidad de individuos, pueden ser finitas o infinitas. Tal vez son finitas en el tiempo que hago mi experimento.
+
+>**Mientras que yo abarque a mas población yo tengo la certeza de que la caraterizaciónn aplica a la población.**
+
+La **distribución de probabilidad** de una variable aleatoria X, relaciones el conjunto de valores posible de X, con la probabilidad asociada a cada uno de estos valores.
+
+Al realiza una prueba estadistica resulta escencial comprender que es una **función de distribución** y la probabilidad de obtener un valor o rango determinado al azar.
+
+**Estimador puntual** de un parametro desconocido es un estadíistico que genera un valior numérico simple.
+
+#Imporante: **Regiones de aceptación y regiones de rechazo**
+
+**Pruebas de hipótesis**: Para saber si rechazo o acepto mi prueba.
+
+Si están suficientemente diferentes, qué tan montados o separados están las dos poblaciones.
+
+*Pruebas de significancia* =? #Pruebas_de_hipótesis
+
+- valor calculado del estadistico
+- valir critico de un estadistico
+	- El procentaje representa la probabilidad de exceder el valor critico y se denomina *nivel de sifnificancia*
+- Hipótesis nula
+- Hipótesis alternativa
+
+
