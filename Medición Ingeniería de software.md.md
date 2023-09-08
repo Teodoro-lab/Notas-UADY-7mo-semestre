@@ -58,12 +58,15 @@ Entonces buscamos una escala con el mayor numero de transofmraciones admisibles,
 
 1. **Nominal:** Diferentes fenomenos reciben etiquetas(valores) distintos, y podemos probar la (medición) si dos fenómenos han recibido la misma etiqueta o una diferente. 
 
-> ***La tipología de la escala sí está bien como ejemplo de ecala nominal, pero no es un recurso. ***
+> ***La tipología de la escala sí está bien como ejemplo de ecala nominal, pero no es un recurso.***
    
-	1. Los nombres en sí mismos no son significativos, lo importante es lo que significa el color. Su identidad y diferencias sí son significativos.
-	   
-	2. Las *transformaciones admisibles* es el conjunto de las transformaciones uno a uno, ya que los valores específicos no transmiten ninguna información en particular, si son iguales y diferentes no te dice más, ni qué tan diferentes ni qué tan iguales.
+1. Los nombres en sí mismos no son significativos, lo importante es lo que 
+	significa el color. Su identidad y diferencias sí son significativos.	   
 
+2. Las *transformaciones admisibles* es el conjunto de las transformaciones uno 
+	a uno, ya que los valores específicos no transmiten ninguna información en 
+	particular, si son iguales y diferentes no te dice más, ni qué tan diferentes 
+	ni qué tan iguales.
 
 2. **Ordinal:** Establece criterio de orden, sin embargo la distancia entre los valores ordenados no tienen sentido físico. 
 	- Ejemplo: **CMMI** (*Inicial*, *Gestionado*, *Definido*, *Gestionado* *Cuantitativamente*, *Optimizado*)
@@ -85,5 +88,43 @@ En cuanto a los indicadores:
 - *Nominal* puedo saber la moda.
 - *De orden* puedo saber el orden
 - *Intervalos* media arimética
-- *Razón media* geométrica
+- *Razón media* mode-median-arithmetic mean-geométrica mean
 
+Hy cosas en las que todavía no hay métricas  y para eso tenemos que hacer nuestras métricas
+
+## Tipos de métricas( **Directas - Indirectas** )
+
+*Directas*: Las hacemos directamente, sin necesidad de aoyarnos de otro atributo de esa entidad. 
+
+> Si mido la altura no mido su pelo o su peso, simplemente mido de sus pies a su cabeza
+
+*Indirectas*: Tengo que hacer uso de otro atributo, con base en la medición de varios atributos puedo obtener la medición de esta métrica.
+
+## Tipos de métricas( **Objetivas - Subjetivas** )
+
+>En función del proceso
+
+*Medidas Objetivas*: Medidas cuyo valor no depende del observador(esfuerzo).
+
+*Medidas subjetivas*: Son aquellas en las que la persona que realiza la medición puede introducir factores de juicio en el resulatdo ___(expertiz del programador)___.
+
+## Tipos de atributos
+
+*Atributos internos*: pueden ser medidos a partir del producto, proceso o recurso.
+
+*Atributos externos*: Son aquelos que los relacionan con el entorno
+
+#### Explicación 
+
+>Como dependen del entorno, sí son objetivos, pero tengo que hacer un mecanismo para evaluarlo, muchas cosas en el contexto dependen del humano, del uso del humano, un técnica, un método, una aplicación "¿Está fácil de usar o no?" Hasta que alguien la utilice es que te darás cuenta de ellos. El atributo interno podrá ser el numero de elementos que te muestra en un momento dado, porque si te los está mostrando en la pantalla los cuentas.
+
+## Productos
+
+Son artefactos que se entregan al finaliza una actividad, una tarea, una fase. Son entregables.
+
+> El producto resultante de la fase de requermientos es un documento, pero es un texto al final de cuentas... El de la fase de diseño será un documento, pero de diagramas. El producto resultante de la fase de códificación es el código. 
+
+- Archivos ejecutables
+- Código
+- Texto
+- Diagramas
