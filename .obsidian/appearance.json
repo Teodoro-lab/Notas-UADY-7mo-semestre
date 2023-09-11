@@ -1,6 +1,10 @@
 {
   "accentColor": "",
   "cssTheme": "Obsidianite",
-  "textFontFamily": "",
-  "theme": "obsidian"
+  "textFontFamily": "CaskaydiaCove Nerd Font,Cartograph CF",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": true
 }

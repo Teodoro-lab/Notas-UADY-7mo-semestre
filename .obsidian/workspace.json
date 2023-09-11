@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7358aaa903ff6f28",
+    "id": "464e98954bbae415",
     "type": "split",
     "children": [
       {
-        "id": "31571382352704e9",
+        "id": "6cf6ec5b1b9eefbf",
         "type": "tabs",
         "children": [
           {
-            "id": "f63b06e2661b13e6",
+            "id": "d7cf4f2844f54a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medición Ingeniería de software.md.md",
+                "file": "Experimentación de Software/Medición Ingeniería de software.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d28c5650566a711e",
+    "id": "33033862ee6cc56f",
     "type": "split",
     "children": [
       {
-        "id": "cf60940500bfe4bf",
+        "id": "2e418324d0847aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "65f05df00d58d46e",
+            "id": "0dbb1c54d5dd7fbd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "f7f6fbd804b0fdf2",
+            "id": "b8f8390dd1f835a1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "eae695dfdaa787c6",
+            "id": "6c0892c7376fa95c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.5
   },
   "right": {
-    "id": "bdcef2299f972d11",
+    "id": "d5e1dc5c3c40ec09",
     "type": "split",
     "children": [
       {
-        "id": "a24e43dda8b878db",
+        "id": "ef12ac041d2721a2",
         "type": "tabs",
         "children": [
           {
-            "id": "cfa5da5c33e9e64a",
+            "id": "8c0f15d37e500327",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medición Ingeniería de software.md.md",
+                "file": "Experimentación de Software/Medición Ingeniería de software.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "1a1db0e27a197573",
+            "id": "906bde9641fccdcc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medición Ingeniería de software.md.md",
+                "file": "Experimentación de Software/Medición Ingeniería de software.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "11863e7a466bea54",
+            "id": "64c4b6e7079e77ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "f9b58433871bd102",
+            "id": "1f8631eb4955b90b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medición Ingeniería de software.md.md"
+                "file": "Experimentación de Software/Medición Ingeniería de software.md.md"
               }
             }
           }
@@ -146,26 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f63b06e2661b13e6",
+  "active": "d7cf4f2844f54a2d",
   "lastOpenFiles": [
-    "notas de innovación.md",
     "Experimentación de Software/Nra Clase - Experimentación de software - sep_8_2023.txt 1.md",
-    "Experimentación de Software/2da Clase - Experimentación de software - 8_18_2023.txt.md",
-    "Experimentación de Software/1ra Clase - Experimentación de software - 8_16_2023.txt.md",
-    "Innovación Tecnológica/2da Clase - Innovacion Tecnológica - 8_17_2023.txt.md",
-    "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md",
+    "Experimentación de Software/Medición Ingeniería de software.md.md",
+    "Experimentación de Software/notas experimentación.md.md",
     "Redes y seguridad de computadoras/1ra Clase - Redes y seguridad de computadoras - 8_17_2023.txt.md",
-    "Medición Ingeniería de software.md.md",
-    "notas de v&v.md",
-    "notas experimentación.md.md",
-    "notas de redes.md",
-    "Analisis de seguridad.md.md",
-    "notas formated.md.md",
-    "Verificación&Validación de Software/2da Clase - Verificación&Validación de Sofware - 8_18_2023.py.md",
-    "Verificación&Validación de Software/1ra Clase - Verificación&Validación de Sofware - 8_16_2023.txt.md",
+    "Innovación Tecnológica/notas de innovación.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Pasted image 20230910220503.png",
+    "Pasted image 20230910220435.png",
+    "Verificación&Validación de Software/Analisis de seguridad.md.md",
+    "2023-09-10.md",
+    "Verificación&Validación de Software/2da Verificación&Validación 8_18_2023.md",
+    "Verificación&Validación de Software/1ra Verificación&Validación 8_16_2023.md",
+    "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md",
+    "Innovación Tecnológica/2da Clase - Innovacion Tecnológica - 8_17_2023.txt.md",
+    "Experimentación de Software/1ra Clase - Experimentación de software - 8_16_2023.txt.md",
+    "Experimentación de Software/2da Clase - Experimentación de software - 8_18_2023.txt.md",
+    "Redes y seguridad de computadoras/notas de redes.md",
+    "Verificación&Validación de Software/notas de v&v.md",
+    "Innovación Tecnológica/notas formated.md.md",
+    "notas de v&v",
+    "notas de redes",
+    "notas de innovación",
+    "Verificación&Validación de Software/2da Clase - Verificación&Validación de Sofware - 8_18_2023.py",
+    "Verificación&Validación de Software/1ra Clase - Verificación&Validación de Sofware - 8_16_2023.txt",
     "notas experimentación.md",
-    "Analisis de seguridad.md",
     "notas formated.md",
-    "Medición Ingeniería de software.md"
+    "Verificación&Validación de Software/2da Clase - Verificación&Validación de Sofware - 8_18_2023.md",
+    "Verificación&Validación de Software/1ra Clase - Verificación&Validación de Sofware - 8_16_2023.md",
+    "Verificación&Validación de Software",
+    "Redes y seguridad de computadoras/1ra Clase - Redes y seguridad de computadoras - 8_17_2023.txt",
+    "Redes y seguridad de computadoras",
+    "Innovación Tecnológica/2da Clase - Innovacion Tecnológica - 8_17_2023.txt",
+    "Innovación Tecnológica",
+    "Salesforce Accredited B2B Commerce Admin - Latest 23 Version _ Udemy_files/eventbrite-light.svg",
+    "Salesforce Accredited B2B Commerce Admin - Latest 23 Version _ Udemy_files/nasdaq-light.svg",
+    "Salesforce Accredited B2B Commerce Admin - Latest 23 Version _ Udemy_files/box-light.svg"
   ]
 }

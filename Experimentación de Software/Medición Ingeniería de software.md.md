@@ -1,6 +1,6 @@
 Para medir algo dentro del contexto de la disciplina pueden tomar muchos años. Podríamos decir que construimos barccos en la ingeiería de software y pues andan divagando en el mar y algunas veces todavía se pierde.
 
-## ¿Qué es la medición?
+## ¿Qué es la medición? 
 
 **La medición en el software es crucial:** los procesos fueran mejores y por lo tanto mejorar los procesos.
 
@@ -19,7 +19,7 @@ Debo ser capaz de medir el efecto que tiene la variación entre las distintas sa
 **La teoría de la representación de la medicion** intentar tratar de expresar de forma numérica el mundo formal, las entidades del mundo real o mundo empírico y la correspondencia entre ambos mundos.
 
 
-## Entidades de ingeniería de software
+## Entidades de ingeniería de software 
 
 En general podemos decir que donde hay recursos humanos, los ingenieros de software con sus diferentes roles, recursos económicos y los otros recursos como tecnológicos. ***Procesos, recursos y artefactos*** puedo medir.
 
@@ -32,7 +32,7 @@ La medida es resultado de la medición, voy a llegar a las 320 lineas de código
 
 Si voy contando obtengo la medida, pero qué tal si hablo de la densidad de los comentarios... Tal vez tenga que calcular dos cosas, hacer una operación y obtener el valor, entonces eso es una medición.
 
-### En IS la métrica en nuestro contexto tiene dos significados:
+### En IS la métrica en nuestro contexto tiene dos significados  :
 
 -  Como un termino para denotar el campo de la meidción.
 -  Como medida de algo, como sinónimo de medida.
@@ -54,7 +54,7 @@ El conjunto de transofmraciones que son admisibles por una escala, el conjunto d
 Entonces buscamos una escala con el mayor numero de transofmraciones admisibles, el robblema es que no las podemos inventar nosotros, el fenomeno ya tiene un máximo de medición.
 
 
-## Tipos de escalas 
+## Tipos de escalas 
 
 1. **Nominal:** Diferentes fenomenos reciben etiquetas(valores) distintos, y podemos probar la (medición) si dos fenómenos han recibido la misma etiqueta o una diferente. 
 
@@ -92,7 +92,7 @@ En cuanto a los indicadores:
 
 Hy cosas en las que todavía no hay métricas  y para eso tenemos que hacer nuestras métricas
 
-## Tipos de métricas( **Directas - Indirectas** )
+## Tipos de métricas( **Directas - Indirectas** ) 
 
 *Directas*: Las hacemos directamente, sin necesidad de aoyarnos de otro atributo de esa entidad. 
 
@@ -100,7 +100,7 @@ Hy cosas en las que todavía no hay métricas  y para eso tenemos que hacer nues
 
 *Indirectas*: Tengo que hacer uso de otro atributo, con base en la medición de varios atributos puedo obtener la medición de esta métrica.
 
-## Tipos de métricas( **Objetivas - Subjetivas** )
+## Tipos de métricas( **Objetivas - Subjetivas** ) 
 
 >En función del proceso
 
@@ -108,17 +108,17 @@ Hy cosas en las que todavía no hay métricas  y para eso tenemos que hacer nues
 
 *Medidas subjetivas*: Son aquellas en las que la persona que realiza la medición puede introducir factores de juicio en el resulatdo ___(expertiz del programador)___.
 
-## Tipos de atributos
+## Tipos de atributos 
 
 *Atributos internos*: pueden ser medidos a partir del producto, proceso o recurso.
 
 *Atributos externos*: Son aquelos que los relacionan con el entorno
 
-#### Explicación 
+#### Explicación  
 
 >Como dependen del entorno, sí son objetivos, pero tengo que hacer un mecanismo para evaluarlo, muchas cosas en el contexto dependen del humano, del uso del humano, un técnica, un método, una aplicación "¿Está fácil de usar o no?" Hasta que alguien la utilice es que te darás cuenta de ellos. El atributo interno podrá ser el numero de elementos que te muestra en un momento dado, porque si te los está mostrando en la pantalla los cuentas.
 
-## Productos */* Artefactos
+## Productos */* Artefactos 
 
 Son artefactos que se entregan al finaliza una actividad, una tarea, una fase. Son entregables.
 
@@ -131,13 +131,13 @@ Son artefactos que se entregan al finaliza una actividad, una tarea, una fase. S
 
 > En el externo es porque depende de quién lee el documento, en el código es porque la solución que le das en el código... el código como tal implementa la solucion y eso puede ser sencillo o complejo, pero el diseño es un documento que vas a revisar.
 
-## Recursos  
+## Recursos  
 
 Cualquier entrada de una actividad
 
 Hoy día está a $300, al que se lo van a vender no sabe ni siquiera si tiene carretera, catastral cuesta $300, te pagan menos y lo venden a más, entonces es algo que depende de quien tenga el dinero.
 
-## Medidas del producto: atributos internos
+## Medidas del producto: atributos internos 
 
 *Tamaño del sistema:*
 	LOC, Densidad de comentarios(DOC), Puntos funcion(PF).
@@ -146,7 +146,7 @@ Hoy día está a $300, al que se lo van a vender no sabe ni siquiera si tiene ca
 
 > La complejidad ciclomática es indirecta, objetiva, ~~interna~~.
 
-## Precisión en la medición
+## Precisión en la medición 
 
 Dos conceptos:
 
@@ -158,7 +158,7 @@ Dos conceptos:
 
 > Te preguntan dos veces lo mismo con palabras diferentes, si se refier a lo mismo entonces son confiables sus respuestas, son consistentes. 
 
-## Validez
+## Validez 
   
 > Imaginense que quiero sacar la cmplejidad en base al núero de comentarios... eso no es complejidad, tal vez es legibilidad, pero no complejidad. 
 > **La validez** es que lo que estás midiendo corresponde realmente a lo que estás midiendo.
@@ -167,7 +167,7 @@ Dos conceptos:
 
 - La **validez de constructo** es el grado en el que una métrica mide realmente la entidad conceptual de interés. 
 
-## En el contexto de IS y experimentación...
+## En el contexto de IS y experimentación... 
 
 ... establecemos causa-efecto, y esto nos dará validez a nuestros proceso experimental, establecemos el grado de influenccia de una variable sobre otras. Para medir ese grado de influencia necesitamos utilizar alguna de esas cosas, el efecto que tiene una cosa sobre otra cosa.
 
@@ -176,7 +176,7 @@ Si soy más alto tengo más peso, pero mi altura no es una causa del peso.
 
 Modificando los valores de una variable mido los efectos en las otras variablees, *nos interesan varaibles dependientes en una escala de razón.*
 
-## Tema de medición 
+## Tema de medición 
 
 Nos interesa porque estaremos usando variables y las caracaterísicas inflluyen en los procesos que podamos realizar. Proceso experimental, por un lado tenemos una población. ese conjunto de valores es lo que caracteriza al fenomeno que voy a analizar.
 
