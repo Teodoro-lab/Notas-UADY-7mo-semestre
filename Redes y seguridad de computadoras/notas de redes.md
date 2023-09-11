@@ -1,36 +1,32 @@
-modems que tienen la capacidad de ser routers.
+> Modems que tienen la capacidad de ser routers.
 
 servidor de correo, de archivoss, web, que están ubicados físicamente en un lugar donde se encuentra el router
 hay un hub de aura de clase, un equipo que concentra a las aulas de clase(computadoras).
 
 cuántas lineas de cable, cuantas computadoras...
 
-ahora la topología lógica de una red es hablar en el lenguaje de la red, es el direcciónmiento de los protocolos que emplean
-las redes.
+ahora la topología lógica de una red es hablar en el lenguaje de la red, es el direcciónmiento de los protocolos que emplean las redes.
 
 TCP para formar los paquetes e IP para enviarlos... TCP/IP
 
-El aula de clase una muestra las direcciones IP, lo que significa que cada equipo tiene su dirección IP
-sin necesariamente poner el numero de computadoras.
+El aula de clase una muestra las direcciones IP, lo que significa que cada equipo tiene su dirección IP sin necesariamente poner el numero de computadoras.
 
-Todos está concentrado en un equipo de tipo internet con dirección ..................
+Todos está concentrado en un equipo de tipo internet con dirección 
 
-Es tán poderoso el redirecciónamiento IP que puede suceder lo siguiente.
-fiscamente hablando están en el mismo lugar, 2 cm, pero lógicamente hablando
-su toṕología lógica puediera ubicarlos en redes completamente distintas.
+## Ejemplo diferencia física/lógica
 
-el responsable de eso es la máscara de sub-red
-tiene sus ventajas y desventajas no estar en la misma red y visceversa.
+>Es tán poderoso el redirecciónamiento IP que puede suceder lo siguiente.
+Fiscamente hablando están en el mismo lugar, 2 cm, pero lógicamente hablando su **toṕología lógica** puediera ubicarlos en redes completamente distintas.
+
+el responsable de eso es la máscara de sub-red tiene sus ventajas y desventajas no estar en la misma red y visceversa.
 
 LAN - "red del laboratorio, del area de laboratorios, de la facultad de matemáticas del campus e ciencias exactas"
 
 Podemos ver las conexiones de dos computadoras en entradas eternet una co otra y lógicamente la topología lógica de las dos computadras es que están en redes diferentes.
 
-generalmente todos están conectados a un switch en una LAN
+Generalmente todos están conectados a un switch en una LAN.
 
-cuando extendemos la LAN y podemos conectar una LAN con otra LAN que sí debe de estar separadas geograficcamente
-entonces hablamos de WAN y para que se puedan conectar
-necesitamos un router que las conecte.
+Cuando extendemos la LAN y podemos conectar una LAN con otra LAN que sí  debe de estar separadas geograficcamente entonces hablamos de WAN y para que se puedan conectar necesitamos un router que las conecte.
 
 Las LAN que están separaadas por una distancia geográfica y se conectan mediante una red y que hay un medio de com
 unicación como un satelite o un cable entonces estamos

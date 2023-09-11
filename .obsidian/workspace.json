@@ -11,11 +11,14 @@
             "id": "d7cf4f2844f54a2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Experimentación de Software/Medición Ingeniería de software.md.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experimentación de Software/Medición Ingeniería de software.md.md",
+                "file": "Innovación Tecnológica/notas formated.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experimentación de Software/Medición Ingeniería de software.md.md",
+                "file": "Innovación Tecnológica/notas formated.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experimentación de Software/Medición Ingeniería de software.md.md"
+                "file": "Innovación Tecnológica/notas formated.md.md"
               }
             }
           }
@@ -148,26 +151,26 @@
   },
   "active": "d7cf4f2844f54a2d",
   "lastOpenFiles": [
-    "Experimentación de Software/Nra Clase - Experimentación de software - sep_8_2023.txt 1.md",
-    "Experimentación de Software/Medición Ingeniería de software.md.md",
-    "Experimentación de Software/notas experimentación.md.md",
-    "Redes y seguridad de computadoras/1ra Clase - Redes y seguridad de computadoras - 8_17_2023.txt.md",
-    "Innovación Tecnológica/notas de innovación.md",
-    "Untitled 1.canvas",
+    "Verificación&Validación de Software/1ra Verificación&Validación 8_16_2023.md",
     "Untitled.canvas",
+    "Verificación&Validación de Software/notas de v&v.md",
+    "Verificación&Validación de Software/Analisis de seguridad.md.md",
+    "Verificación&Validación de Software/2da Verificación&Validación 8_18_2023.md",
+    "Innovación Tecnológica/notas formated.md.md",
+    "Innovación Tecnológica/notas de innovación.md",
+    "Innovación Tecnológica/2da Clase - Innovacion Tecnológica - 8_17_2023.txt.md",
+    "Redes y seguridad de computadoras/1ra Clase - Redes y seguridad de computadoras - 8_17_2023.txt.md",
+    "Redes y seguridad de computadoras/Notas de redes.md",
+    "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md",
+    "Experimentación de Software/Medición Ingeniería de software.md.md",
+    "Experimentación de Software/Nra Clase - Experimentación de software - sep_8_2023.txt 1.md",
+    "Experimentación de Software/notas experimentación.md.md",
+    "Untitled 1.canvas",
     "Pasted image 20230910220503.png",
     "Pasted image 20230910220435.png",
-    "Verificación&Validación de Software/Analisis de seguridad.md.md",
     "2023-09-10.md",
-    "Verificación&Validación de Software/2da Verificación&Validación 8_18_2023.md",
-    "Verificación&Validación de Software/1ra Verificación&Validación 8_16_2023.md",
-    "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md",
-    "Innovación Tecnológica/2da Clase - Innovacion Tecnológica - 8_17_2023.txt.md",
     "Experimentación de Software/1ra Clase - Experimentación de software - 8_16_2023.txt.md",
     "Experimentación de Software/2da Clase - Experimentación de software - 8_18_2023.txt.md",
-    "Redes y seguridad de computadoras/notas de redes.md",
-    "Verificación&Validación de Software/notas de v&v.md",
-    "Innovación Tecnológica/notas formated.md.md",
     "notas de v&v",
     "notas de redes",
     "notas de innovación",
