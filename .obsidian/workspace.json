@@ -4,55 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "31571382352704e9",
+        "id": "26a9f1295057c0ee",
         "type": "tabs",
         "children": [
           {
-            "id": "f63b06e2661b13e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d184190a5b95372",
+            "id": "154373039cfc67cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasos para el proceso experimental.md",
+                "file": "Clase 29 sep 2023 experimentación de software.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "66a1a72d38fe1f16",
+            "id": "7a8504245a775f0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasos para el proceso experimental.md",
+                "file": "clase 20 sep 2023 experimentación.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdedc8b3fbc441a5",
+            "id": "c4fd45749408e3f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "V&V revisión.md",
+                "file": "clase redes sobre IP y rangos. Oct 11 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V&V revisión.md",
+                "file": "clase redes sobre IP y rangos. Oct 11 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V&V revisión.md",
+                "file": "clase redes sobre IP y rangos. Oct 11 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V&V revisión.md"
+                "file": "clase redes sobre IP y rangos. Oct 11 2023.md"
               }
             }
           },
@@ -185,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,33 +190,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdedc8b3fbc441a5",
+  "active": "c4fd45749408e3f7",
   "lastOpenFiles": [
+    "clase 20 sep 2023 experimentación.md",
+    "clase redes sobre IP y rangos. Oct 11 2023.md",
+    "Finanzas de software.md",
+    "Verificación&Validación de Software/notas de v&v.md",
+    "Verificación&Validación de Software/Analisis de seguridad.md.md",
+    "Experimentación de Software/1ra Clase - Experimentación de software - 8_16_2023.txt.md",
+    "Experimentación de Software/2da Clase - Experimentación de software - 8_18_2023.txt.md",
+    "Experimentación de Software/Nra Clase - Experimentación de software - sep_8_2023.txt 1.md",
+    "Experimentación de Software/Medición Ingeniería de software.md.md",
     "V&V revisión.md",
+    "Clase 29 sep 2023 experimentación de software.md",
     "Pasos para el proceso experimental.md",
-    "Medición Ingeniería de software.md.md",
-    "Redes y seguridad de computadoras/notas de redes.md",
+    "Verificación&Validación de Software/2da Verificación&Validación 8_18_2023.md",
+    "Verificación&Validación de Software/1ra Verificación&Validación 8_16_2023.md",
     "Innovación Tecnológica/notas formated.md.md",
     "Innovación Tecnológica/notas de innovación.md",
-    "Experimentación de Software/notas experimentación.md.md",
-    "Experimentación de Software/Medición Ingeniería de software.md.md",
-    "notas de innovación.md",
-    "Experimentación de Software/Nra Clase - Experimentación de software - sep_8_2023.txt 1.md",
-    "Experimentación de Software/2da Clase - Experimentación de software - 8_18_2023.txt.md",
-    "Experimentación de Software/1ra Clase - Experimentación de software - 8_16_2023.txt.md",
     "Innovación Tecnológica/2da Clase - Innovacion Tecnológica - 8_17_2023.txt.md",
+    "Experimentación de Software/notas experimentación.md.md",
+    "Medición Ingeniería de software.md.md",
+    "Redes y seguridad de computadoras/notas de redes.md",
+    "notas de innovación.md",
     "Redes y seguridad de computadoras/Redes de computadoras - Modelos de referencia - Sep 7 2023.md",
     "Redes y seguridad de computadoras/1ra Clase - Redes y seguridad de computadoras - 8_17_2023.txt.md",
     "notas de v&v.md",
     "notas experimentación.md.md",
-    "notas de redes.md",
-    "Analisis de seguridad.md.md",
-    "notas formated.md.md",
-    "Verificación&Validación de Software/2da Clase - Verificación&Validación de Sofware - 8_18_2023.py.md",
-    "Verificación&Validación de Software/1ra Clase - Verificación&Validación de Sofware - 8_16_2023.txt.md",
-    "notas experimentación.md",
-    "Analisis de seguridad.md",
-    "notas formated.md",
-    "Medición Ingeniería de software.md"
+    "notas de redes.md"
   ]
 }

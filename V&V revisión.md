@@ -17,3 +17,4 @@ Podemos aplicar un proceos de caminata sobre eso. ¿Qué tan complejo es indetif
 
 Podemos ver si eso es corecto, mira ese requeirimiento está bien redactado, qué pasa si hacemos de las pruebas por ejempplo...
 las pruebas tienen que ver nucho con los requirmientos del usuario, garantizar que la prueba es´ta bien diseñada.
+
